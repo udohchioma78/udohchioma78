@@ -7,4 +7,4 @@
 
 ### 📫 Connect With Me
 - [LinkedIn](linkedin.com/in/chioma-udoh)
-- Email: [chiomalilianudoh@gmail.com](chiomalilianudoh@gmail.com)
+- Email: chiomalilianudoh@gmail.com
