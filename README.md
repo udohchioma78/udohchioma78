@@ -1,4 +1,4 @@
-## Hi 👋, I'm The_Analyst👩‍💻
+## Hi 👋, I am The_Analyst👩‍💻
 
 - 🎓 I'm a Mathematician and Data Analyst specialized in transforming raw datasets into actionable insights using SQL, R, Excel, and Power BI.
 - 🎯 I am passionate about solving business problems through data.
